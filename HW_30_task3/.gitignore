@@ -1,0 +1,6 @@
+﻿# Build outputs
+bin/
+obj/
+
+# JetBrains IDE settings
+.idea/

@@ -1,0 +1,9 @@
+﻿# Build results
+bin/
+obj/
+**/bin/
+**/obj/
+
+# JetBrains Rider / IntelliJ IDEA
+.idea/
+**/.idea/
